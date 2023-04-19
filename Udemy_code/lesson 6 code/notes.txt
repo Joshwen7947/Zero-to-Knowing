@@ -1,0 +1,35 @@
+# Ask a user if they want to watch a movie
+# If they answer yes, ask them the genre they want to see
+# if they say comedy, Tell them to watch the Hangover trilogy
+# Otherwise tell them to watch Top Gun
+# If they don't want to watch a movie, tell them to watch a TV series
+
+###################################################################
+
+# Ask the user if they want a hotel or resort
+# If they want a resort, ask them for the max price they want to spend per night
+# If their max price is 350 or over, tell them to book at the six senses resort
+# otherwise tell them to go to the four seasons
+# If they want a hotel, tell them to go to the nearest Hilton
+
+###################################################################
+
+# Ask the user for 3 different prices for 3 different products
+# If the 3rd product is the most expensive, give them 50% off
+# If the 1st product is the most expensive, give them 66% off
+# print off their total
+
+###################################################################
+
+# Ask the user for a cost and current time in hour format (24 hour)
+# If the time is from/between 7-9 then they get 20% off, give them a new total
+# also if the time is from/between 10-6, there is no discount
+# Any other time, thell them the store is closed
+
+###################################################################
+
+# Gather a review from a customer (1 - 10)
+# If the rating is 9 or over, thank them!
+# also if the rating is less than 9 and 5 or more, ask them how we can improve
+# print off what the user entered and say we will work harder
+# Any other rating, tell them We are sorry to hear that!

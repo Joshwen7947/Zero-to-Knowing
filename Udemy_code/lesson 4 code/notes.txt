@@ -1,0 +1,17 @@
+# How short can we make our last code?
+
+###################################################################
+
+# Create an expense tracker
+# Collect the Income from a user
+# Collect their expenses for food, rent, other
+# Get the total amount left after expenses
+# print off the remmaining total
+
+###################################################################
+
+# Create an over-time tracker
+# Collect a users monthly pay
+# Collect the users extra hours worked
+# Their bonus is 20% of their monthly salary * extra hours
+# Print off their overtime bonus pay

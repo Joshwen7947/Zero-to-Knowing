@@ -1,0 +1,23 @@
+Create a timer similar to the one from the lesson
+The user can enter 1 - begin or 2 - stop
+Once the timer is complete, print off the time passed rounded down
+
+Then check if it was less than 10 seconds, award them 3 points
+between 10 - 15 seconds, award them 2 points
+Anything else, they get 1 pointsShow the number of points they were awarded
+
+###########################################################
+
+You need to create a countdown clock
+For this consider using a loop with a counter variable
+Every second, print off the current second
+Print "Your countdown finished after: ____ seconds" once it completes
+
+###########################################################
+
+We want to create a program to calculate the time it takes to download a file
+We ask the user 2 questions. Flize size in Megabytes and internet speed in megabits/second
+Convert the file to megabits (1 Megabyte = 8 megabits), then calculates the download time
+Display the number of seconds the download will take
+Use the countdown timer to display the download process taking place
+End with printing "Download complete"

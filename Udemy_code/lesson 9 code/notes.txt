@@ -1,0 +1,30 @@
+# Create a function that accepts a score
+# if the score is 0 - 50, print "Below passing, Improve"
+# if the score is 50-70, print "Barely passing"
+# if the score is 70-90 print, You are passing!
+# otherwise print, "You are in the top of the class"
+# Collect the info with input
+
+################################################
+
+# Create a function to add on extra flight charges
+# the function takes a base fare then asks if you want to upgrade.  If yes add 99 to the base fare
+# then it'll ask if you have baggage, if yes add 35 to the base fare
+# before returing the price you need to add tax of 0.08%, then return the price
+# print off the grand total after extras and tax
+
+################################################
+
+# Create a bank balance function, it will accept a balance
+# If the balance is >= 500, return True otherwise return False
+# Outside the function, ask for the number of bank customers & loop through
+# Ask for each first name and their current balance, orint off if they have enough funds (true/false)
+# if the function returns True, print off "no need to worry" else print "Your account is low"
+
+################################################
+
+# Create a mortage function that accepts a number to determine if someone is eligible
+# if they have 50k or more, print "Instant approval"
+# if between 20k-50k, print "You need approval" otherwise print "Not apprived!"
+# Outside create a loop that ends with "0". The input asks for a deposit amount
+# Everytime a deposit is entered this is stored in a total variable and the funciton is called

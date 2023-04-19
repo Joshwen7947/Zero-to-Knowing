@@ -1,0 +1,33 @@
+Create a class for animals with the properties name, pet, sound
+Create a method called speak and print the animal sound
+Create a method called pet_info, print off the animals info 
+
+Create two objects with different values
+Call the methods with your objects
+
+#####################################################
+
+We are working with the NBA, we need a class Player
+This class has 3 properties, name, score and team. Team is initially set to empty
+Create a method called show_stats, this will show the info about the Player
+Create a method called select_team, this will ask for a team and chance the value of the team property
+
+Create an object for Player
+Call the methodsHow can you show the updated player details after entering team?
+
+#####################################################
+
+We are building a class to find the perimeter and area of a rectangle
+Create a method to show the basic info about the rectangle
+Create a method to calculate the perimeter, then return the value
+Create a method to calculate the area, then return the value
+Create a method that'll shorten the length of the rectangle, return the updated area
+
+Gather the length and width through inputs
+Create an object giving it the arguments needed
+print off the basic info
+print off the perimeter
+print off the area
+
+Ask for an input to reduce the length of the current rectangle
+print off the updated rectangle

@@ -1,0 +1,30 @@
+#Similar to our slides, create a passcode checker
+#If the passcode contains an invalid character, print invalid letter
+
+##########################################################
+
+# Create a program that counts vowels in a word
+# the prgram takes an input for a single word
+# Loops through the word and checks for vowels
+# at the end, print off the number of vowels in the word
+
+##########################################################
+
+# Create a program that checks for a valid phone number
+# If the input contains anything besides a number
+# print off, invalid phone number and end the loop
+
+##########################################################
+
+# Create a program that takes the number of guests
+# For each guest ask their name and age
+# if the guest is 18 or older, welcome the user
+# otherwise, tell them they must be 18
+
+
+##########################################################
+
+# A user has 5 chances to login into an account
+# their username is 'admin' and their password is '12345'
+# print off how many tires it takes them
+# if they are wrong 5 times, print off You are not the admin!

@@ -1,0 +1,43 @@
+Create an empty list, then ask the user for an input "Enter the name of a fruit:"
+While the input is not 'quit, add the input to your list and ask again
+Once the user enters 'quit', ask the user to guess a fruit
+If the guess is in your list, print "Congrats!"
+Other wise print "Sorry, that is not in the list"
+
+#########################################################
+
+Create an empty list for capital cities
+Ask the user to enter a city, as long as the user doesn't enter 0, the program continues
+Check to see if the input is already in the list, if so print, "You already have that city"
+Otherwise add the new city to your list, when the loop ends, sort your list
+print off your sorted list of capital cities
+
+#########################################################
+
+Enter all the basketball players in one input with a space, create a list from this
+create a variable to find the length of the list
+declare a new list for teams
+Loop through each player, and assign them to a random team from 1 - 3
+End with looping through the number of players and show their name and team number
+
+#########################################################
+
+Here is your list -> scores = ["Billy - 5","Sarah - 4","Leo - 3","John - 3","Anna - 4"]
+Create a counter variable (used to find the average)
+You need to loop through your list and get the score from each person (5,4,3,3,4)
+Increase the counter by this score
+Calculate the average score
+Print off the average group score
+
+#########################################################
+
+BONUS CHALLENGE
+
+Create a function that takes a list, if the list is 0, return None
+Otherwise the function calculates the average of the numbers from the list
+
+Create aloop to run the length of the list
+Generate a new list everytime the loop runs with the current index of your list
+NOTE -> We haven't studued this, here is a clue -> sublist = numbers_list[:i+1]
+Call your function and give it the sublist
+Print off the average og the sublist

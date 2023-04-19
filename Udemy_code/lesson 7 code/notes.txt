@@ -1,0 +1,26 @@
+# Create a mini bot that accepts messages
+# The loop only breaks/ends once the word 'done' is entered
+# Everytime the loops runs, print "We got your message"
+
+# Create an account login
+# The user has 2 passwords, either once can be entered to gain access
+# Once the user enters the correct password, greet them with "Welcome to your account"
+
+# The first 3 people to book are gifted 20% off
+# For every person, print "Congrats [name]. You saved 20%" 
+# Once 3 people have gotten the discount, print "All done!"
+
+# A user must enter a programming language, but the only get 5 tries
+# If the user enters Python, print off how many tries it took them
+
+# Create a train ticket booking program
+# The program begins when the user enters 0 and ends when the user enters 1
+# For every new train ticket, print off the train ticket number
+
+
+#BONUS
+# Create a trip generator
+# If the user enters 1 ask them for their ideal weather, if the user says cold, tell them to go on a ski holiday
+# If the user enters anything else, tell them to go ot the beach
+# If the user initially enters 2, enter them in a raffle.  They only have 4 chances to geuss the correct answer to a question
+# If they geuss correct, print off "You get a FREE trip!"

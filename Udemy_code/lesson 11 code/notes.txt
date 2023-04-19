@@ -1,0 +1,28 @@
+Create a mini lottery program
+Assign a variable with a winning number and another with a random number
+Show the random number with print
+If the winning number is equal to the random number print, you win a FREE trip
+Otherwise, "Sorry you did not win"
+
+####################################################
+
+Create a program that assigns passengers to two different flights
+Ask the user if they want a new flight, if their answer is not "no" the program continues
+Create a variable for a random flight number
+If that random flight is equal to 1, increase the counter by 1
+If the random flight is equal to 2, increase another counter by 1
+At the end of the loop, show the number of passenegers on each flight
+
+####################################################
+
+Create a guessing game. Two variables, one with a random numberm, the other with an input
+If input is too low, print off Too low
+If the input is too high, print Too High
+Otherwise, print Congrats!
+
+####################################################
+
+Refactor your last guessing game to improve input
+We want to add the ability to continue guessing until we get the right number
+Think loops!
+Once the random number is guessed, print Congrats and the number of times it took

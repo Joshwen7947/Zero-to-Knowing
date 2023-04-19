@@ -1,0 +1,30 @@
+Create an object and draw a hexagon with the turtle module
+The drawing needs to stay on the screen when done
+
+########################################################
+
+Complete the same task as above with a loop, draw wtih 3 lines of code
+The objects must have a width of 5 and a color of your choice
+The drawing needs to stay on the screen when done
+
+########################################################
+
+Create 3 objects, give them each the same width with a different color
+Draw 3 triangles in a column
+Make sure the triangles are a solid color when completed
+The drawing needs to stay on the screen when done
+
+########################################################
+
+Create two functions, one function draws a square, the other draws a triangle
+Each function taks two parameters, an object and a size
+Create your object, then call both functions
+The drawing needs to stay on the screen when done
+
+########################################################
+
+Refactor the code from above
+Create an input asking which shape you want to draw
+If user enters square, call the square function
+If user enters triangle, call triangle function
+Otherwise, print "We can't do that yet!"

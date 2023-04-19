@@ -1,0 +1,12 @@
+# create 4 functions, the first 3 will be terminal1, terminal2, terminal3
+# When one of those functions are called, print off which terminal to go to the call the main function again
+# the main function should ask "is your flight budget/domestic or international"
+# budget - terminal 1 , domestic - terminal 2, international - terminal 3
+
+######################################################
+
+# POPULAR - Create a BMI calculator using 2 functions
+# one function calculates and returns the BMI (BMI = weight / (height * height))
+# the second function takes the bmi results and tells you if you are underweight, normal weight or overweight
+# Create a loop to run for a number of people
+# pass the weight and height into one of the functions which calls the other

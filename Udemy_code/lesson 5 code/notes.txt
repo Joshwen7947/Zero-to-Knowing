@@ -1,0 +1,34 @@
+# Create a discount program
+# Ask the user which type of trip they are taking
+# Ask the user for an expected trip cost
+# If the trip is a business trip and the price is 1200 or over return True
+# Print if the customer gets a discount or not
+
+###################################################################
+
+# Allow a user to enter a special discount code
+# If the discount code is winter23 then give a 20% discount
+# Otherwise say the code is invalid
+
+###################################################################
+
+# Create a program that recommends a type of trip
+# Gather the trip cost from the user
+# If the cost is less than 350, tell them to go on a stay-cation
+# If the cost is over/equal to 350 and less than 1000, tell them to go on a road trip
+# If the cost is equal/over 1000, tell them to catch a flight to the beach
+# NOTE No matter the answer, print Have Fun!
+
+###################################################################
+
+# Create a program that gathers bag weight in KG and also either domestic/international from a user
+
+# If the weight is less than or equal to 18kg then the price is 25
+# otherwise the price is 75
+
+# Then check if the destination is domestic or international
+# if it's domestic, add 300 to the price
+# otherwise add 750 to the price
+# print off estimated cost
+
+# NOTE What is the price variable?

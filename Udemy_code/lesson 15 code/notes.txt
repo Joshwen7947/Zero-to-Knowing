@@ -1,0 +1,43 @@
+Let's begin with a simple one, we will use the Animal class from the last lesson
+Create a child class called fish
+Create a method called swim, if the sound is equal to None, print I am a fish, I don't have a sound
+Otherwise print, Are you sure you're a fish
+Create a 2nd method called ocean, ask the fish which ocean they live in and print off
+
+Create an obejct and call all 4 methods
+
+################################################################
+
+We need a superclass for Vehicles
+Our constructor needs a cars info: make, model, year and price
+Create a method to check if the make is ford, chevy or tesla, if so return American Made
+Otherwise return Imported
+Create a method that returns the Vehicles model
+Create a method that checks if the car year is newer than 2000, is so return Car from the 21st century
+Otherwise return This car is old!
+Create a method that accepts a max_price you're willing to pay, this method checks if the car price is under your budget.  It yes, return Within your budget Otherwise return Over your budget
+
+Create a child class called Style
+This class accepts a superclass, and also has a parameter of num_of_doors
+Create a method, if num_of_doors is 4 return Family car, Otherwise return Sports Car
+
+Create 3 objects.  1 uses the superclass, 2 use the child class
+
+################################################################
+
+Creating a class for our agents, james bond and ethan hunt
+NOTE -> Try completing this without using the slides!
+Create a superclass that takes name, health and car
+Create a superclass method that prints the Agents info
+
+Create a child class called Spy, this inherits everything from the parent classAdd 3 additional properties of Agency, location and killed (killed is set to False)
+
+(Ethan hunt will be the bad guy)
+Create a method to attack/assassinate the other agent, this takes an object as a parameter
+If the enemys health is greater than 0, subtract 20 from their health.  Show who has lost 20 health and show their updated health level
+If the enemy is less than 0, then killed becomes True, print off [enemy name] is dead
+
+Create 2 instances of the Spy class, one for James Bond the other for Ethan hunt
+Call the method to show the Agents info, then wait 5 seconds
+While ethan hunt health is greater than 0, both objects call assassinate
+After every attack the program waits 2 seconds before the next

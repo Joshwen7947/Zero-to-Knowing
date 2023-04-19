@@ -1,0 +1,33 @@
+# Create a module for the BMI calculator we did last lesson
+# The functions should be stored in a seperate file from the main
+# Import ONLY the function that you need
+
+########################################################
+
+# Create a module for the multi function terminal challenege we did last lesson
+# All the functions should be stored in a seperate file
+# Use any of the 3 methods we learned to import
+
+# Create a loop to run your flight_Check()
+# Ask the user if they want to check their flight
+# if yes, call the needed function
+# The loop stops when the user enters quit
+
+########################################################
+
+We need a program to determine the salary for full-time and hourly employees
+There will be 2 functions in a seperate file
+the hourly function will accept hours worked. with a rate of 25 per hourly
+Multiply their hours worked with rate, then return the value
+
+the full-time function will accept exp, for years worked.  They have an annual pay of 25k
+if they worked from 2 - 4 years, they get 1.5x raise and a bonus of 500
+if they worked from 4 - 10 years, they get a 2x raise and a bonus of 1000
+if they worked over 10 years, they get a 3x raise and a bonus of 1500
+anything else, they do not get a raise and their bonus is 200
+
+In the main program, make a loop to start and end the program
+everytime it runs, it'll ask for a name and type (salary or hourly)
+if type = hourly, ask for the number of hours worked and use the hourly function in a variable
+if type = salary, ask for years worked and use the salary function in a variableAnything else, print "You are unemployeed!"
+Once the loop breaks, print the employee name and their payrate

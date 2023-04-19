@@ -1,0 +1,19 @@
+# Create 3 variables to collect information from a user
+# These variables are first name, city and country
+# print off their information -> ex. Bill lives in Salt Lake City, USA
+
+# Create 2 variables to gather user information
+# One is the car rental price for one day, the other is the number of days to rent
+# Create a total variable to calculate the total cost
+# print out their total cost -> ex. Total car price: 550
+
+# Create 3 variables for shipping packages
+# A user can enter the weight of 3 packages
+# Create a variable to find the sum of these 3 packages
+# Offer a 20% discount on the shipping weight
+# Print off total cost for shipment
+
+# Create a user ID, Their ID is 786147
+# Collect the users name and age
+# Print off their information
+# NOTE Everything should be a string
